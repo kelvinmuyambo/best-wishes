@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+.header{
+    background: url(assets/images/bg_pic2.jpg);
+    background-size: contain;
+}
+
+.overlay{
+    background: #0000008c;
+    color: white;
+}
+
+.large{
+    font-size: 3em;
+}
+
+body{
+    font-family: cursive;
+}
