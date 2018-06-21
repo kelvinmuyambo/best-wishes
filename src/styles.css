@@ -5,7 +5,7 @@
 }
 
 .overlay{
-    background: #0000008c;
+    background: rgba(0, 0, 0, 0.5490196078431373);
     color: white;
 }
 
